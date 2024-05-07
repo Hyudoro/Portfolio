@@ -8040,6 +8040,13 @@ textarea.form-control-lg {
   text-decoration: line-through !important;
 }
 
+.text-justify {
+  margin-right:100px;
+  text-align: justify;
+  text-justify: inter-word; /* Assure une meilleure répartition des espaces entre les mots */
+}
+
+
 .text-lowercase {
   text-transform: lowercase !important;
 }
